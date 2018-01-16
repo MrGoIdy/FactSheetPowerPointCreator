@@ -1,0 +1,6 @@
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\bin\Debug\FactSheetPowerPointCreator.exe.config
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\bin\Debug\FactSheetPowerPointCreator.exe
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\bin\Debug\FactSheetPowerPointCreator.pdb
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\obj\Debug\FactSheetPowerPointCreator.csprojResolveAssemblyReference.cache
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\obj\Debug\FactSheetPowerPointCreator.exe
+D:\Projects\Work\FactSheetPowerPointCreator\FactSheetPowerPointCreator\obj\Debug\FactSheetPowerPointCreator.pdb
